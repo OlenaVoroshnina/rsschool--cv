@@ -34,3 +34,91 @@ my knowledge and skills to produce top-notch software
 products that meet and exceed company objectives
 
 **************************************************************************************************************************
+## Tech skills
+
+- HTML5
+- CSS3/SASS
+- JavaScript
+- React
+- Redux / Redux Toolkit 
+- Rest API
+- Node.js
+
+************************************************************************************************************************
+
+## Code Example
+
+```javascript
+
+function sum(a, b) {
+  return a + b;
+};
+
+let result = sum(1, 2);
+alert( result );
+
+
+function isWholeNumber(a) {
+  return  a === Math.floor(a) ? true: false;
+};
+
+let integer = isWholeNumber(159);
+alert( integer );
+
+
+function isSmaller(a, b) {
+  return a < b ? a / b : a * b;
+};
+
+let count = isSmaller(15, 5);
+alert( count );
+
+```
+**************************************************************************************************************************
+
+## Project experience
+
+- **__[Filmoteka](https://olenavoroshnina.github.io/filmoteka/)__**   [Link](https://github.com/OlenaVoroshnina/filmoteka)
+
+\[HTML, SASS, JS, REST API, AJAX, Parcel]  
+A website with responsive layout for finding movies and a
+user library, modal windows. Role: Frontend Developer.
+Developed HTML, CSS markup, functional of team modal
+window, footer, favicon, customs scrollbar, added icons
+
+- **__[Ice-cream](https://olenavoroshnina.github.io/Ice-cream/)__**   [Link](https://github.com/OlenaVoroshnina/Ice-cream)
+
+\[HTML, SASS, JS, REST API, AJAX, Parcel]  
+Ice company website with responsive layout, burger menu,
+modal windows. Role: Frontend Developer.
+Developed HTML, CSS markup, functional of section
+Products
+
+- **__[WebStudio](https://olenavoroshnina.github.io/goit-markup-hw-08/)__**   [Link](https://github.com/OlenaVoroshnina/goit-markup-hw-08)
+
+\[HTML, SASS, JS, REST API, AJAX, Parcel]  
+A website with responsive layout, portfolio, modal windows.
+
+**************************************************************************************************************************
+
+## Education
+
+__**IT School GoIT (Kyiv)**__
+
+Fullstack Developer  |    2022 - 2023
+
+__**Kostyantynivskyi  Industrial College**__
+
+Economist  |    1992 - 1995
+
+**************************************************************************************************************************
+
+## Languages
+
+- **Ukrainian**   native
+
+- **Russian**     native
+
+- **English**     intermediate
+
+- **Spanish**     intermediate \(I have been living in Spain for 1 year)
